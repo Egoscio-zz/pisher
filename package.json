@@ -1,0 +1,14 @@
+{
+  "name": "pisher",
+  "version": "1.0.0",
+  "description": "Pishing example for educational purposes",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "cheerio": "^0.19.0",
+    "express": "^4.13.3",
+    "express-session": "^1.11.3",
+    "jsop": "^0.3.1",
+    "request": "^2.64.0"
+  }
+}
